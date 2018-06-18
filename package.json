@@ -1,6 +1,6 @@
 {
   "name": "ezlib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy static methods using zlib library",
   "main": "lib/ezlib.js",
   "scripts": {
