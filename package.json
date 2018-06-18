@@ -18,9 +18,9 @@
   "author": "Michael Parks",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/parksjr/express-easy-error-handler/issues"
+    "url": "https://github.com/parksjr/ezlib/issues"
   },
-  "homepage": "https://github.com/parksjr/express-easy-error-handler",
+  "homepage": "https://github.com/parksjr/ezlib",
   "dependencies": {
     "zlib": "^1.0.5"
   },
